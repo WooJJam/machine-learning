@@ -1,0 +1,6 @@
+names:
+- trash
+nc: 1
+test: /Users/woojjam/Desktop/study/machine-learning/yolo/yolov8/custom_data_instance_segmetation/test/images/
+train: /Users/woojjam/Desktop/study/machine-learning/yolo/yolov8/custom_data_instance_segmetation/train/images/
+val: /Users/woojjam/Desktop/study/machine-learning/yolo/yolov8/custom_data_instance_segmetation/valid/images/

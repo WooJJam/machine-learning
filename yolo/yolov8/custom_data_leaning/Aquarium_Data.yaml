@@ -1,0 +1,12 @@
+names:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+nc: 7
+test: /Users/woojjam/Desktop/study/machine-learning/pytorch/train/images
+train: /Users/woojjam/Desktop/study/machine-learning/pytorch/train/images/
+val: /Users/woojjam/Desktop/study/machine-learning/pytorch/valid/images/
